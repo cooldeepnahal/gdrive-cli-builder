@@ -1,4 +1,5 @@
-windows/386
 linux/386
+windows/386
+
 
 
