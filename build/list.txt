@@ -1,3 +1,4 @@
 windows/386
+linux/386
 
 
